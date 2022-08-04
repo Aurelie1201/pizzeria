@@ -1,0 +1,22 @@
+{
+  "name": "pizzeria",
+  "version": "1.0.0",
+  "description": "site pizzeria",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aurelie1201/pizzeria.git"
+  },
+  "author": "Aurélie Benhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aurelie1201/pizzeria/issues"
+  },
+  "homepage": "https://github.com/Aurelie1201/pizzeria#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
